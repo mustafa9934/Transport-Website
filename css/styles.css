@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Krub:wght@300;400;500;600&family=Rubik:wght@300;400;500;600;700;800;900&display=swap");
+:root {
+  --color-primary-1: #ffbe34;
+  --color-primary-1: #091242;
+  --color-secondary-1: #f4f4f4;
+
+  --color-heading: #1c1f35;
+  --color-font: #666c89;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+html {
+  font-size: 10px;
+}
+body {
+  font-size: 1.6rem;
+  font-family: "Rubik", sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Krub", sans-serif;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
